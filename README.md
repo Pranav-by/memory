@@ -18,16 +18,16 @@ This is how u can create List
 <br> <br>
 - List A
 - List B
--[] List C
--[x] List D
+- [ ] List C  
+- [x] List D 
 
 ## Code
-''' cpp
+``` cpp
 #include <bits/stdc++.h>
 using namespace std;
 {
-    cout <<"Hello <<endl;
+    cout <<"Hello" <<endl;
 }
-'''
+```
 
 
