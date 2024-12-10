@@ -39,4 +39,4 @@ using namespace std;
 >[!Warning]
 > this is how u can Alert using Warning
 
-$ x^2 = x^2 + (1-x) ^2 $
+$$ x^2 = x^2 + (1-x) ^2 $$
