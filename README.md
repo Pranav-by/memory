@@ -41,5 +41,5 @@ using namespace std;
 
 $$ x^2 = x^2 + (1-x) ^2 $$
 
->[!Remember]
+>[!Tip]
 > Please try....
