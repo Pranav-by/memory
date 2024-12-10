@@ -13,6 +13,9 @@ U can visit [GitHub](git@github.com)
 |:----------|----------|
 |  xyz     | abc      |
 
+For Space Exploration visit,visit NASA[^1].
+[^1]:National Aeronautics and Space Administration.
+
 # List
 This is how u can create List
 <br> <br>
@@ -29,5 +32,11 @@ using namespace std;
     cout <<"Hello" <<endl;
 }
 ```
+# Alert
+> [!Note]
+>This is how u can Alert using Note
+
+>[!Warning]
+> this is how u can Alert using Warning
 
 
